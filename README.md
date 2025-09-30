@@ -13,6 +13,6 @@ GetExcelFormat.cs - Создание эксель книги <br />
 ExcelSheet.cs - Создание листа эксель и загрузка информации на лист. <br />
 Program.cs - Выгрузка информации из бд и занесение информации в книгу Эксель
 ### Использованные библиотеки
-Oracle.ManagedDataAccess.Client - использовал для подключение к Oracle (Sql) 
+Oracle.ManagedDataAccess.Client - использовал для подключение к Oracle (Sql)  <br />
 ClosedXML - Использовал для выгрузки в эксель
 
